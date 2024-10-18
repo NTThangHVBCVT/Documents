@@ -25,5 +25,6 @@ Trong các buổi meeting hàng tuần với giảng viên, buổi báo cáo ph�
 Nếu đồ án sử dụng mã nguồn từ bên ngoài, hãy liệt kê nguồn tại đây để tuân thủ các quy định về trung thực học thuật:
 > Ví dụ: "Logic xác thực đăng nhập được tham khảo từ Flask Documentation."  
 > Ví dụ: "Code phân trang được điều chỉnh từ GitHub User Repository."  
-> V.v.  
+> V.v.
+  
 ===================================================================================================================
