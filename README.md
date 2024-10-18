@@ -1,4 +1,4 @@
-# **⚠️ Quan Trọng Về Bản Quyền Và Việc Tái Sử Dụng Mã Nguồn ⚠️**
+# **⚠️ Quan Trọng Về Bản Quyền và Tái Sử Dụng Code ⚠️**
 Các Projects là phần quyết định của khóa luận tốt nghiệp. Để đảm bảo tính trung thực trong học thuật và thể hiện kỹ năng lập trình, nghiên cứu khoa học, tinh thần làm việc, khối lượng công việc... của sinh viên/nhóm sinh viên, hãy tuân thủ các yêu cầu sau:
 
 ## **1. Tuân Thủ Bản Quyền Là Bắt Buộc**
